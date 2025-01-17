@@ -17,4 +17,4 @@ The RSOS-Net has completed the competition and ranked first in the embedded obst
 
 For the leaderboard details, please visit：[https://macvi.org/leaderboard/surface/lars/embedded-challenge](https://macvi.org/leaderboard/surface/lars/embedded-challenge)
 
-![Current Ranking](https://github.com/Yuan-Feng1998/RSOS-Net2024/blob/main/1.png)
+![Current Ranking](https://github.com/Yuan-Feng1998/RSOS-Net2024/blob/main/Rank.png)
